@@ -57,4 +57,4 @@ pip install -r requirements.txt
 ---
 
 ## 👨‍💻 Contributors
-- **Hasnat Ehsan** - Developer
+- **Umar Farooq** - Developer
